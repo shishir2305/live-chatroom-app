@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Python (version 3.x)
 2. Flask and flask-socket (install via pip install flask and flask-socket)
 
-#Contributing
+# Contributing
 
 I welcome contributions to enhance the functionality and features of the chatroom application. To contribute:
 
